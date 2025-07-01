@@ -1,0 +1,1592 @@
+fileFormatVersion: 2
+guid: b7356664a63ce8a44a26558a24a9cbf6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4089119970689991291
+    second: Cartoon_Medieval_Armory_Level_Set_Platformer - Ground 02_0
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Cartoon_Medieval_Armory_Level_Set_Platformer - Ground 02_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b72cee0c2f87fb830800000000000000
+      internalID: 4089119970689991291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cartoon_Medieval_Armory_Level_Set_Platformer - Ground 02_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aa530513c2f18a47adc456650137700
+      internalID: -1146810209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cartoon_Medieval_Armory_Level_Set_Platformer - Ground 02_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5297dc75dc890e84b863c5d881c6d0bd
+      internalID: -1641396397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cartoon_Medieval_Armory_Level_Set_Platformer - Ground 02_3
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2c995664fbe98c40a8d5d24f5051723
+      internalID: -984429171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cartoon_Medieval_Armory_Level_Set_Platformer - Ground 02_4
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 562916d791de02f42bc1b369ae22adc5
+      internalID: -1022060536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cartoon_Medieval_Armory_Level_Set_Platformer - Ground 02_5
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9916355cd26bc114b9f40637c07a9668
+      internalID: 62346811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cartoon_Medieval_Armory_Level_Set_Platformer - Ground 02_6
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0b806e0a0a5fa849ac333facbc9466f
+      internalID: 628810320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cartoon_Medieval_Armory_Level_Set_Platformer - Ground 02_7
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a69b441972c73248a24837663d1319f
+      internalID: -795961455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cartoon_Medieval_Armory_Level_Set_Platformer - Ground 02_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68496d8a614db534e8409d75e8eac1e4
+      internalID: -612085392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cartoon_Medieval_Armory_Level_Set_Platformer - Ground 02_9
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20175a4c39df9c14f9dec27b940bb86d
+      internalID: 1321523883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cartoon_Medieval_Armory_Level_Set_Platformer - Ground 02_10
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aafa54ab61effec47b850f00bac2efa1
+      internalID: -658151844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cartoon_Medieval_Armory_Level_Set_Platformer - Ground 02_11
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dab9459b3ec877844a70b669c6629052
+      internalID: -1073468382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cartoon_Medieval_Armory_Level_Set_Platformer - Ground 02_12
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba16dc1eec4d7ae41b095fb3040e4728
+      internalID: 1758936300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cartoon_Medieval_Armory_Level_Set_Platformer - Ground 02_13
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 782c526edafbbad45b5b34828fd39be9
+      internalID: 697492279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cartoon_Medieval_Armory_Level_Set_Platformer - Ground 02_14
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f7c2b9f8b4f8b84b9dcd3e2524b5e79
+      internalID: -951421767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cartoon_Medieval_Armory_Level_Set_Platformer - Ground 02_15
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d3dafb8a77e4544f8e70fc705f3c5a0
+      internalID: -1828159756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cartoon_Medieval_Armory_Level_Set_Platformer - Ground 02_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68fda3397e79b9042b17b75f9e559d87
+      internalID: 1976999058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cartoon_Medieval_Armory_Level_Set_Platformer - Ground 02_17
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ec9067f1326a9342988e18ece548f4c
+      internalID: -2020318425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cartoon_Medieval_Armory_Level_Set_Platformer - Ground 02_18
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d4ec6b6cd19ff44396817a9ca3572df
+      internalID: -1060797001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cartoon_Medieval_Armory_Level_Set_Platformer - Ground 02_19
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2f66672289dde44c9f081eeaa169c34
+      internalID: -1706734435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cartoon_Medieval_Armory_Level_Set_Platformer - Ground 02_20
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 548162e8a36ffdb41af2a7d4b0c81541
+      internalID: 1636201293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cartoon_Medieval_Armory_Level_Set_Platformer - Ground 02_21
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f423d202196235849848bbfc455355cd
+      internalID: -1851784237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cartoon_Medieval_Armory_Level_Set_Platformer - Ground 02_22
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 691f6561545d54b4991725b72800e0a4
+      internalID: -2114399284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cartoon_Medieval_Armory_Level_Set_Platformer - Ground 02_23
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19439c8534a604542aa28c0a69873665
+      internalID: -12627006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cartoon_Medieval_Armory_Level_Set_Platformer - Ground 02_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d1d22f2943fa5d458ba8b32d724b6f5
+      internalID: 1447363632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cartoon_Medieval_Armory_Level_Set_Platformer - Ground 02_25
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4c86cd655759b24e8bdbd147fb9a192
+      internalID: 826873563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cartoon_Medieval_Armory_Level_Set_Platformer - Ground 02_26
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c25f8d8fa023c744f94c25ede02cdc4a
+      internalID: -162146525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cartoon_Medieval_Armory_Level_Set_Platformer - Ground 02_27
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6f0fa34ed78cdf4e8d39fd482a0ac97
+      internalID: 1981234374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cartoon_Medieval_Armory_Level_Set_Platformer - Ground 02_28
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 082d625f18a786144800e45d735551a2
+      internalID: 1705599426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cartoon_Medieval_Armory_Level_Set_Platformer - Ground 02_29
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d4362f76f049b7449d57cd8a7550ef0
+      internalID: 600434696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cartoon_Medieval_Armory_Level_Set_Platformer - Ground 02_30
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec406c5567f258043be4aa2d00250b2e
+      internalID: 552852887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cartoon_Medieval_Armory_Level_Set_Platformer - Ground 02_31
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a578bbc55345ca5488497d410163427e
+      internalID: 1745771591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cartoon_Medieval_Armory_Level_Set_Platformer - Ground 02_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abc6e28a4727a2546bb2ef618c585818
+      internalID: 1285857616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cartoon_Medieval_Armory_Level_Set_Platformer - Ground 02_33
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6499e4ec1bf00948b6bd2637831b402
+      internalID: -254877185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cartoon_Medieval_Armory_Level_Set_Platformer - Ground 02_34
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6df7cfe463b42b40b478cad0e7c3658
+      internalID: 1368145160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cartoon_Medieval_Armory_Level_Set_Platformer - Ground 02_35
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d721cb561869a9408cf0d1be0b93399
+      internalID: -2123023801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cartoon_Medieval_Armory_Level_Set_Platformer - Ground 02_36
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ba1d55ebd0f8194cab27e9acdcbbca8
+      internalID: 1717822331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cartoon_Medieval_Armory_Level_Set_Platformer - Ground 02_37
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 964adb95d068f0e4581cb092bf886398
+      internalID: -1679950814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cartoon_Medieval_Armory_Level_Set_Platformer - Ground 02_38
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49782916abbcef849940667ee05c118e
+      internalID: 13193789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cartoon_Medieval_Armory_Level_Set_Platformer - Ground 02_39
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54686f8024383434a984c9bc6ddbf725
+      internalID: -1236458737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cartoon_Medieval_Armory_Level_Set_Platformer - Ground 02_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d244ff79815c114a971195ab8c2b219
+      internalID: 264811377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cartoon_Medieval_Armory_Level_Set_Platformer - Ground 02_41
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd554888b0010164d9d9c569470f83be
+      internalID: 1730913749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cartoon_Medieval_Armory_Level_Set_Platformer - Ground 02_42
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e50304a7c87313a4093a77f3cba3d8e0
+      internalID: 1642876054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cartoon_Medieval_Armory_Level_Set_Platformer - Ground 02_43
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97ce3767babaaee4a9af8c635103e3dd
+      internalID: -386714839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cartoon_Medieval_Armory_Level_Set_Platformer - Ground 02_44
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a74667ba4e23b9447a6056eab1872834
+      internalID: 1015711678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cartoon_Medieval_Armory_Level_Set_Platformer - Ground 02_45
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdf36752a1089cd4a92cc63bad0a50f2
+      internalID: -583878331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cartoon_Medieval_Armory_Level_Set_Platformer - Ground 02_46
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dadc61adb3c91e4f9b3a6654caadca5
+      internalID: -1579177463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cartoon_Medieval_Armory_Level_Set_Platformer - Ground 02_47
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4be229b2466fa9341a7a835fc09da153
+      internalID: 373761249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cartoon_Medieval_Armory_Level_Set_Platformer - Ground 02_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7218db330892f7f4c93326abb8466f90
+      internalID: 26885708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cartoon_Medieval_Armory_Level_Set_Platformer - Ground 02_49
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40e57c0294577f74c965af11246e4d00
+      internalID: -851673789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cartoon_Medieval_Armory_Level_Set_Platformer - Ground 02_50
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 015c4cc45c7d91d42b5c1fe8576540e6
+      internalID: 1110391602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cartoon_Medieval_Armory_Level_Set_Platformer - Ground 02_51
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8a3985a1acb1d444998b33796b5c8de
+      internalID: 1976254207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cartoon_Medieval_Armory_Level_Set_Platformer - Ground 02_52
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2ffd275a56d4b14db24b2732e6ce012
+      internalID: -663336497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cartoon_Medieval_Armory_Level_Set_Platformer - Ground 02_53
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0656bdc6cfa781e448ef73a27bbc46cd
+      internalID: 474397823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cartoon_Medieval_Armory_Level_Set_Platformer - Ground 02_54
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4a0dd66e3521b941bf5d1f7344d43d2
+      internalID: -1511495073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cartoon_Medieval_Armory_Level_Set_Platformer - Ground 02_55
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 594f6a9d1c0fb3642a7880aecf0886eb
+      internalID: 1776081782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cartoon_Medieval_Armory_Level_Set_Platformer - Ground 02_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 852d6fa8c43d0404987b3dbc32d9299a
+      internalID: -2027758870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cartoon_Medieval_Armory_Level_Set_Platformer - Ground 02_57
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbb29055862c78b4186ee9e41b9f522a
+      internalID: 474900499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cartoon_Medieval_Armory_Level_Set_Platformer - Ground 02_58
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 375828866a8b1d44da90bf8a834354ac
+      internalID: -2119289368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cartoon_Medieval_Armory_Level_Set_Platformer - Ground 02_59
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fea77b36b2d0cf45a16b7c4e8c83faf
+      internalID: -1434280958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cartoon_Medieval_Armory_Level_Set_Platformer - Ground 02_60
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4a30d2aa08256349b71ef99d6d499bf
+      internalID: 1818619056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cartoon_Medieval_Armory_Level_Set_Platformer - Ground 02_61
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8684b65f9b87f2c488ed7ff82b6ad5a3
+      internalID: 1305520259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cartoon_Medieval_Armory_Level_Set_Platformer - Ground 02_62
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a06ce06b16cc015478d84644819cddaf
+      internalID: -1846067304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cartoon_Medieval_Armory_Level_Set_Platformer - Ground 02_63
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c479ad99496623b429ee7df135f261b7
+      internalID: 1616674721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: cec677da141c32f41bdaacb395712709
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Cartoon_Medieval_Armory_Level_Set_Platformer - Ground 02_0: 4089119970689991291
+      Cartoon_Medieval_Armory_Level_Set_Platformer - Ground 02_1: -1146810209
+      Cartoon_Medieval_Armory_Level_Set_Platformer - Ground 02_10: -658151844
+      Cartoon_Medieval_Armory_Level_Set_Platformer - Ground 02_11: -1073468382
+      Cartoon_Medieval_Armory_Level_Set_Platformer - Ground 02_12: 1758936300
+      Cartoon_Medieval_Armory_Level_Set_Platformer - Ground 02_13: 697492279
+      Cartoon_Medieval_Armory_Level_Set_Platformer - Ground 02_14: -951421767
+      Cartoon_Medieval_Armory_Level_Set_Platformer - Ground 02_15: -1828159756
+      Cartoon_Medieval_Armory_Level_Set_Platformer - Ground 02_16: 1976999058
+      Cartoon_Medieval_Armory_Level_Set_Platformer - Ground 02_17: -2020318425
+      Cartoon_Medieval_Armory_Level_Set_Platformer - Ground 02_18: -1060797001
+      Cartoon_Medieval_Armory_Level_Set_Platformer - Ground 02_19: -1706734435
+      Cartoon_Medieval_Armory_Level_Set_Platformer - Ground 02_2: -1641396397
+      Cartoon_Medieval_Armory_Level_Set_Platformer - Ground 02_20: 1636201293
+      Cartoon_Medieval_Armory_Level_Set_Platformer - Ground 02_21: -1851784237
+      Cartoon_Medieval_Armory_Level_Set_Platformer - Ground 02_22: -2114399284
+      Cartoon_Medieval_Armory_Level_Set_Platformer - Ground 02_23: -12627006
+      Cartoon_Medieval_Armory_Level_Set_Platformer - Ground 02_24: 1447363632
+      Cartoon_Medieval_Armory_Level_Set_Platformer - Ground 02_25: 826873563
+      Cartoon_Medieval_Armory_Level_Set_Platformer - Ground 02_26: -162146525
+      Cartoon_Medieval_Armory_Level_Set_Platformer - Ground 02_27: 1981234374
+      Cartoon_Medieval_Armory_Level_Set_Platformer - Ground 02_28: 1705599426
+      Cartoon_Medieval_Armory_Level_Set_Platformer - Ground 02_29: 600434696
+      Cartoon_Medieval_Armory_Level_Set_Platformer - Ground 02_3: -984429171
+      Cartoon_Medieval_Armory_Level_Set_Platformer - Ground 02_30: 552852887
+      Cartoon_Medieval_Armory_Level_Set_Platformer - Ground 02_31: 1745771591
+      Cartoon_Medieval_Armory_Level_Set_Platformer - Ground 02_32: 1285857616
+      Cartoon_Medieval_Armory_Level_Set_Platformer - Ground 02_33: -254877185
+      Cartoon_Medieval_Armory_Level_Set_Platformer - Ground 02_34: 1368145160
+      Cartoon_Medieval_Armory_Level_Set_Platformer - Ground 02_35: -2123023801
+      Cartoon_Medieval_Armory_Level_Set_Platformer - Ground 02_36: 1717822331
+      Cartoon_Medieval_Armory_Level_Set_Platformer - Ground 02_37: -1679950814
+      Cartoon_Medieval_Armory_Level_Set_Platformer - Ground 02_38: 13193789
+      Cartoon_Medieval_Armory_Level_Set_Platformer - Ground 02_39: -1236458737
+      Cartoon_Medieval_Armory_Level_Set_Platformer - Ground 02_4: -1022060536
+      Cartoon_Medieval_Armory_Level_Set_Platformer - Ground 02_40: 264811377
+      Cartoon_Medieval_Armory_Level_Set_Platformer - Ground 02_41: 1730913749
+      Cartoon_Medieval_Armory_Level_Set_Platformer - Ground 02_42: 1642876054
+      Cartoon_Medieval_Armory_Level_Set_Platformer - Ground 02_43: -386714839
+      Cartoon_Medieval_Armory_Level_Set_Platformer - Ground 02_44: 1015711678
+      Cartoon_Medieval_Armory_Level_Set_Platformer - Ground 02_45: -583878331
+      Cartoon_Medieval_Armory_Level_Set_Platformer - Ground 02_46: -1579177463
+      Cartoon_Medieval_Armory_Level_Set_Platformer - Ground 02_47: 373761249
+      Cartoon_Medieval_Armory_Level_Set_Platformer - Ground 02_48: 26885708
+      Cartoon_Medieval_Armory_Level_Set_Platformer - Ground 02_49: -851673789
+      Cartoon_Medieval_Armory_Level_Set_Platformer - Ground 02_5: 62346811
+      Cartoon_Medieval_Armory_Level_Set_Platformer - Ground 02_50: 1110391602
+      Cartoon_Medieval_Armory_Level_Set_Platformer - Ground 02_51: 1976254207
+      Cartoon_Medieval_Armory_Level_Set_Platformer - Ground 02_52: -663336497
+      Cartoon_Medieval_Armory_Level_Set_Platformer - Ground 02_53: 474397823
+      Cartoon_Medieval_Armory_Level_Set_Platformer - Ground 02_54: -1511495073
+      Cartoon_Medieval_Armory_Level_Set_Platformer - Ground 02_55: 1776081782
+      Cartoon_Medieval_Armory_Level_Set_Platformer - Ground 02_56: -2027758870
+      Cartoon_Medieval_Armory_Level_Set_Platformer - Ground 02_57: 474900499
+      Cartoon_Medieval_Armory_Level_Set_Platformer - Ground 02_58: -2119289368
+      Cartoon_Medieval_Armory_Level_Set_Platformer - Ground 02_59: -1434280958
+      Cartoon_Medieval_Armory_Level_Set_Platformer - Ground 02_6: 628810320
+      Cartoon_Medieval_Armory_Level_Set_Platformer - Ground 02_60: 1818619056
+      Cartoon_Medieval_Armory_Level_Set_Platformer - Ground 02_61: 1305520259
+      Cartoon_Medieval_Armory_Level_Set_Platformer - Ground 02_62: -1846067304
+      Cartoon_Medieval_Armory_Level_Set_Platformer - Ground 02_63: 1616674721
+      Cartoon_Medieval_Armory_Level_Set_Platformer - Ground 02_7: -795961455
+      Cartoon_Medieval_Armory_Level_Set_Platformer - Ground 02_8: -612085392
+      Cartoon_Medieval_Armory_Level_Set_Platformer - Ground 02_9: 1321523883
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
